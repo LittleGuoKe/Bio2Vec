@@ -1,0 +1,1 @@
+There are trained word2vector files, tokenized protein sequence files and trained cnn classifier model in the uploaded folder, and prediction can be made by running predict.py.
